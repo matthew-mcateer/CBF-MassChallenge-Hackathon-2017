@@ -1,5 +1,5 @@
 cloudant==2.4.0
-Flask==0.12.2
+Flask==2.0.2
 Flask-Sockets==0.2.1
 foursquare==1!2016.9.12
 python-dotenv==0.6.4
